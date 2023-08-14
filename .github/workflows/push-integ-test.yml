@@ -9,6 +9,7 @@ on:
   push:
     branches:
       - feat/example-integ-test-branch/main
+      - ashwin-cci-test
 
 jobs:
   e2e:
